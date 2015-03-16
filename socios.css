@@ -3,3 +3,16 @@ body{
     width: 800px;
     height: 800px;
 }
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+.mostrar {
+    margin-top: 50px;
+}
+
+.mostrar p{
+    text-align: left;
+}
