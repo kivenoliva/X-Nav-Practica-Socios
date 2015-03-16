@@ -1,0 +1,20 @@
+{ "Mensajes":[
+        {"Autor": "Kevin",
+        "Avatar": "",
+        "Titulo":"Oferta de moto",
+        "Contenido":"Vendo moto en buen estado, Yamaha R-1. Para precio contactar conmigo",
+        "Fecha":"09/03/2015"},
+
+        {"Autor": "Adri",
+        "Avatar": "",
+        "Titulo":"Buenos Dias",
+        "Contenido":"Quiero desearos a todos buenos dias, y que paseis buena semana",
+        "Fecha":"09/03/2015"},
+
+        {"Autor": "Ivan",
+        "Avatar": "",
+        "Titulo":"HALA MADRID",
+        "Contenido":"Hoy he conseguido dos entradas para ir al Bernabeu a ver al Real Madrid!!",
+        "Fecha":"09/03/2015"},
+    ]
+}
