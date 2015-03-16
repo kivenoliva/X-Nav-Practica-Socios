@@ -1,31 +1,31 @@
 {
     "Mensajes":[
         {"Autor": "Kevin",
-        "Avatar": "",
+        "Avatar": "kevin.jpg",
         "Titulo":"Oferta de moto",
         "Contenido":"Vendo moto en buen estado, Yamaha R-1. Para precio contactar conmigo",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Adri",
-        "Avatar": "",
+        "Avatar": "adrian.jpeg",
         "Titulo":"Buenos Dias",
         "Contenido":"Quiero desearos a todos buenos dias, y que paseis buena semana",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Ivan",
-        "Avatar": "",
+        "Avatar": "ivan.jpg",
         "Titulo":"HALA MADRID",
         "Contenido":"Hoy he conseguido dos entradas para ir al Bernabeu a ver al Real Madrid!!",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Alvaro",
-        "Avatar": "",
+        "Avatar": "alvaro.jpg",
         "Titulo":"Concurso",
         "Contenido":"Participa ya en mi consurso de diseño Web, queda plazas libres",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Biedma",
-        "Avatar": "",
+        "Avatar": "biedma.jpeg",
         "Titulo":"Indignado",
         "Contenido":"No entiendo como el arbitro pudo pitar ese penalti, es ridiculo",
         "Fecha":"09/03/2015"}

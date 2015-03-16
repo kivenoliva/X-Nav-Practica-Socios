@@ -1,20 +1,20 @@
 { "Mensajes":[
-        {"Autor": "Kevin",
-        "Avatar": "",
-        "Titulo":"Oferta de moto",
-        "Contenido":"Vendo moto en buen estado, Yamaha R-1. Para precio contactar conmigo",
+        {"Autor": "Bruce W.",
+        "Avatar": "bruce.jpg",
+        "Titulo":"Yippi",
+        "Contenido":"Yippy ka hey, hijo de puta",
         "Fecha":"09/03/2015"},
 
-        {"Autor": "Adri",
-        "Avatar": "",
-        "Titulo":"Buenos Dias",
-        "Contenido":"Quiero desearos a todos buenos dias, y que paseis buena semana",
+        {"Autor": "Bruce W.",
+        "Avatar": "bruce.jpg",
+        "Titulo":"Lo que importa!",
+        "Contenido":"No importa cuántas personas haya matado. Lo que importa es cómo me llevo con las personas que siguen vivas",
         "Fecha":"09/03/2015"},
 
-        {"Autor": "Ivan",
-        "Avatar": "",
-        "Titulo":"HALA MADRID",
-        "Contenido":"Hoy he conseguido dos entradas para ir al Bernabeu a ver al Real Madrid!!",
+        {"Autor": "Bruce L",
+        "Avatar": "brucelee.jpeg",
+        "Titulo":"Be",
+        "Contenido":"Be water my friend",
         "Fecha":"09/03/2015"},
     ]
 }
