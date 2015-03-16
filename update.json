@@ -1,18 +1,18 @@
 { "Mensajes":[
         {"Autor": "Bruce W.",
-        "Avatar": "bruce.jpg",
+        "Avatar": "images/bruce.jpg",
         "Titulo":"Yippi",
         "Contenido":"Yippy ka hey, hijo de puta",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Bruce W.",
-        "Avatar": "bruce.jpg",
+        "Avatar": "images/bruce.jpg",
         "Titulo":"Lo que importa!",
         "Contenido":"No importa cuántas personas haya matado. Lo que importa es cómo me llevo con las personas que siguen vivas",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Bruce L",
-        "Avatar": "brucelee.jpeg",
+        "Avatar": "images/brucelee.jpeg",
         "Titulo":"Be",
         "Contenido":"Be water my friend",
         "Fecha":"09/03/2015"}

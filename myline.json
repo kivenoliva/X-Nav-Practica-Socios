@@ -1,18 +1,18 @@
 { "Mensajes":[
         {"Autor": "Rocky",
-        "Avatar": "rocky.jpg",
+        "Avatar": "images/rocky.jpg",
         "Titulo":"Controla el miedo",
         "Contenido":"El miedo es como el fuego, si lo controlas, te calentará y te mantendrá vivo, pero si te controla a ti, te quemará y te destruirá.",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Rocky",
-        "Avatar": "rocky.jpg",
+        "Avatar": "images/rocky.jpg",
         "Titulo":"Avanzar",
         "Contenido":"Aguantas mientras avanzas, hay que soportar sin dejar de avanzar, así es como se gana",
         "Fecha":"09/03/2015"},
 
         {"Autor": "Rocky",
-        "Avatar": "rocky.jpg",
+        "Avatar": "images/rocky.jpg",
         "Titulo":"No importa!",
         "Contenido":"No importa lo fuerte que golpeas, sino lo fuerte que eres cuando te golpean.",
         "Fecha":"09/03/2015"}
