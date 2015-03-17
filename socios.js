@@ -1,5 +1,5 @@
 var mensajesPendientes = 0;
-var timeline = "";
+var mensajesP = "";
 
 jQuery(document).ready(function() {
 
@@ -21,13 +21,13 @@ jQuery(document).ready(function() {
     
     //Primero descargo los mensajes del timeline
     $.getJSON("timeline.json", function(data) {
-        timeline = data.Mensajes;
         mostrarMensaje(data.Mensajes, "#mens");    
     });
        
     //Miro a ver los mensajes que hay pendientes
     $.getJSON("update.json", function(data) {
         mensajesPendientes = data.Mensajes.length;
+        mensajesP = data.Mensajes;
         console.log(mensajesPendientes);
         if(mensajesPendientes != 0){
             $( "#tabs-1" ).prepend("<p>" + "Mensajes pendientes:  " + mensajesPendientes + "</p>");
@@ -37,18 +37,17 @@ jQuery(document).ready(function() {
         }
     });
     
+    //Descargo los mensajes del usuario para el myline
     $.getJSON("myline.json", function(data) {
         mostrarMensaje(data.Mensajes, "#tabs-2");    
     });
     
+    //Cuando me pulsan el boton, muestro los mensajes que hay pendientes en update
     $("#boton1").click(function(){
         if (mensajesPendientes != 0){
             mensajesPendientes = 0;
             $( "#tabs-1 p" ).html("Mensajes pendientes:  " + mensajesPendientes);
-            $.getJSON("update.json", function(data) {
-              
-                mostrarMensaje(data.Mensajes, "#upd");       
-            });
+            mostrarMensaje(mensajesP, "#upd");                 
         }
     });
 });
